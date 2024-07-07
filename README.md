@@ -10,7 +10,7 @@ I'm Maxxel a.k.a Jinaan, a passionate developer currently studying at UPN Vetera
 ## 🌱 Education
 
 - 🎓 Studying at [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/)
-- 🎓 Studying at [Bangkit-Cloud Computing](https://grow.google/intl/id_id/bangkit/)
+- 🎓 [Bangkit 2023 Batch 2 - Cloud Computing](https://grow.google/intl/id_id/bangkit/)
 
 ## 💼 Work and Projects
 
