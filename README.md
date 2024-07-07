@@ -25,7 +25,7 @@ I'm Maxxel a.k.a Jinaan, a passionate developer currently studying at UPN Vetera
 
 ## 📫 Connect with Me 
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/muhammad-jinaan-fakhruddin-01a025294/))
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/muhammad-jinaan-fakhruddin-01a025294/])
 - 💬 [Discord](https://discordapp.com/users/727134818017738783)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 🌟
