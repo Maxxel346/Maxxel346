@@ -30,3 +30,5 @@ I'm Maxxel a.k.a Jinaan, a passionate developer currently studying at UPN Vetera
 - 💬 [Discord](https://discordapp.com/users/727134818017738783)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 🌟
+
+![snake gif](https://github.com/Maxxel346/Maxxel346/blob/output/github-snake-dark.svg)
