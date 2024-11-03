@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Maxxel a.k.a Jinaan, a passionate developer currently studying at UPN Veteran Yogyakarta University. I've recently completed the Bangkit program from Dicoding with a focus on cloud computing.
+I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta University. I've recently completed the Bangkit program from Dicoding with a focus on cloud computing.
 
 ## 🚀 About Me
 
