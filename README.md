@@ -4,8 +4,9 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 
 ## 🚀 About Me
 
-- 💻 Currently freelancing and enthusiastic about creating home project programs.
-- 🏡 Utilizing IoT to enhance entertainment, comfortability, and security in my own house.
+- 💻 Currently freelancing and actively developing home automation projects.
+- 🕵️‍♂️ Passionate about **web scraping**, using tools like **Selenium**, **Playwright**, **pychrome**, and **mitmproxy**.
+- 🏠 Applying **IoT** to enhance entertainment, comfort, and security at home.
 
 ## 🌱 Education
 
@@ -14,8 +15,30 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 
 ## 💼 Work and Projects
 
-- ✨ Actively involved in freelance projects.
-- 🚀 Completed the Bangkit program, specializing in cloud computing.
+- ✨ Freelance developer working on automation and data scraping pipelines.
+- ☁️ Completed the Bangkit program with projects hosted on cloud infrastructure.
+- 🛠️ Currently building a self-hosted server ecosystem using **TrueNAS SCALE**.
+
+## 🧰 My Rig
+
+**🔧 Workstation:**
+
+- AMD Ryzen 5 5600  
+- 32GB DDR4 (2x16GB)  
+- NVIDIA RTX 2060  
+- 1TB + 500GB NVMe SSD  
+- 2x3TB HDD  
+- Windows 11  
+
+**🖥️ Homelab / Server:**
+
+- Intel i5-6500  
+- 16GB DDR4  
+- 6x3TB HDD (5900RPM)  
+- 160W Pico PSU + 750W Platinum Server PSU (D750E-S1)  
+- LSI 9300-8i HBA *(coming soon)*  
+- TrueNAS SCALE 24.xx.x  
+
 
 <p align="left">
   <a href="https://github.com/Jinaan">
