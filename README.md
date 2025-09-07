@@ -36,7 +36,8 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 - 16GB DDR4  
 - 6x3TB HDD (5900RPM)  
 - 160W Pico PSU + 750W Platinum Server PSU (D750E-S1)  
-- LSI 9300-8i HBA *(coming soon)*  
+- LSI 9300-8i HBA 
+- 6x4TB SAS Drive *(coming soon)*  
 - TrueNAS SCALE 24.xx.x  
 
 
