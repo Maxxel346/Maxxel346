@@ -28,8 +28,17 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 - NVIDIA RTX 2060  
 - 1TB + 500GB NVMe SSD  
 - 2x3TB HDD  
-- Windows 11  
+- Windows 10 E LTSC
 
+**🔧 Office:**
+
+- Intel i5 10400 
+- 32GB DDR4 (2x16GB)  
+- NVIDIA P400  
+- 250GB NVMe SSD  
+- 2x500GB (Mirror)
+- Windows 11
+  
 **🖥️ Homelab / Server:**
 
 - Intel i5-6500  
@@ -38,7 +47,12 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 - LSI 9300-8i HBA
 - 4x3TB HDD (5900RPM)  
 - 6x4TB SAS Drive 
-- TrueNAS SCALE 24.xx.x  
+- TrueNAS SCALE 24.xx.x
+- 
+**🖥️ Homelab / Server:**
+
+- Intel i7-8550U
+- 16GB DDR4  
 
 
 <p align="left">
