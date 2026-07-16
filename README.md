@@ -10,7 +10,7 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 
 ## 🌱 Education
 
-- 🎓 Studying at [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/)
+- 🎓 Informatics Graduate from [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/)
 - 🎓 [Bangkit 2023 Batch 2 - Cloud Computing](https://grow.google/intl/id_id/bangkit/)
 
 ## 💼 Work and Projects
