@@ -4,7 +4,7 @@ I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta 
 
 ## 🚀 About Me
 
-- 💻 Currently freelancing and actively developing home automation projects.
+- 💻 Working a hospital contract right now, but still actively hacking away at my home automation setups.
 - 🕵️‍♂️ Passionate about **web scraping**, using tools like **Selenium**, **Playwright**, **pychrome**, and **mitmproxy**.
 - 🏠 Applying **IoT** to enhance entertainment, comfort, and security at home.
 
