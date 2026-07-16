@@ -1,72 +1,58 @@
-# Hi there! 👋
+# Hi, I'm Maxxel 👋
 
-I'm Maxxel, a passionate developer currently studying at UPN Veteran Yogyakarta University. I've recently completed the Bangkit program from Dicoding with a focus on cloud computing.
+I am an Informatics graduate from UPN Veteran Yogyakarta University and a specialized Cloud Computing graduate from the Dicoding Bangkit Program. I build robust automation pipelines, deploy cloud-hosted infrastructure, and engineer smart IoT ecosystems.
 
-## 🚀 About Me
+### 🚀 Expertise & Focus
 
-- 💻 Working a hospital contract right now, but still actively hacking away at my home automation setups.
-- 🕵️‍♂️ Passionate about **web scraping**, using tools like **Selenium**, **Playwright**, **pychrome**, and **mitmproxy**.
-- 🏠 Applying **IoT** to enhance entertainment, comfort, and security at home.
+- **Automation & Scraping:** Developing robust data extraction pipelines using Selenium, Playwright, pychrome, and mitmproxy.
+- **Machine Learning:** Researching and optimizing malware detection utilizing file entropy analysis on Random Forest models.
+- **Infrastructure & Cloud:** Deploying scalable solutions and building self-hosted server ecosystems with TrueNAS SCALE.
+- **IoT & Home Automation:** Enhancing entertainment, security, and environmental comfort through smart home integrations.
 
-## 🌱 Education
+### 💼 Experience & Education
 
-- 🎓 Informatics Graduate from [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/)
-- 🎓 [Bangkit 2023 Batch 2 - Cloud Computing](https://grow.google/intl/id_id/bangkit/)
+- **Freelance Developer:** Designing custom automation and data scraping solutions for clients.
+- **Bangkit 2023 (Cloud Computing):** Developed and deployed cloud-native applications on scalable infrastructure.
+- **Contractor:** Currently managing day-to-day operations in a hospital environment while actively continuing independent engineering projects.
+- **B.S. Informatics:** [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/)
 
-## 💼 Work and Projects
+---
 
-- ✨ Freelance developer working on automation and data scraping pipelines.
-- ☁️ Completed the Bangkit program with projects hosted on cloud infrastructure.
-- 🛠️ Currently building a self-hosted server ecosystem using **TrueNAS SCALE**.
+<details>
+<summary><b>🧰 Hardware & Server Infrastructure (Click to expand)</b></summary>
+<br>
 
-## 🧰 My Rig
+**Workstation**
+- AMD Ryzen 5 5600 | 32GB DDR4 | NVIDIA RTX 2060
+- 1TB + 500GB NVMe SSD | 2x3TB HDD | Windows 10 E LTSC
 
-**🔧 Workstation:**
+**Office Machine**
+- Intel i5 10400 | 32GB DDR4 | NVIDIA P400
+- 250GB NVMe SSD | 2x500GB (Mirror) | Windows 11
 
-- AMD Ryzen 5 5600  
-- 32GB DDR4 (2x16GB)  
-- NVIDIA RTX 2060  
-- 1TB + 500GB NVMe SSD  
-- 2x3TB HDD  
-- Windows 10 E LTSC
+**Homelab / Server Cluster (TrueNAS SCALE 24.xx.x)**
+- **Node 1:** Intel i5-6500 | 16GB DDR4 | LSI 9300-8i HBA
+  - *Storage:* 4x3TB HDD (5900RPM) | 6x4TB SAS Drive
+  - *Power:* 160W Pico PSU + 750W Platinum Server PSU (D750E-S1)
+- **Node 2:** Intel i7-8550U | 16GB DDR4
+</details>
 
-**🔧 Office:**
+---
 
-- Intel i5 10400 
-- 32GB DDR4 (2x16GB)  
-- NVIDIA P400  
-- 250GB NVMe SSD  
-- 2x500GB (Mirror)
-- Windows 11
-  
-**🖥️ Homelab / Server:**
+### 📊 GitHub Stats
 
-- Intel i5-6500  
-- 16GB DDR4  
-- 160W Pico PSU + 750W Platinum Server PSU (D750E-S1)  
-- LSI 9300-8i HBA
-- 4x3TB HDD (5900RPM)  
-- 6x4TB SAS Drive 
-- TrueNAS SCALE 24.xx.x
-- 
-**🖥️ Homelab / Server:**
-
-- Intel i7-8550U
-- 16GB DDR4  
-
-
-<p align="left">
-  <a href="https://github.com/Jinaan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxxel346&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxxel346&layout=compact&theme=algolia"/>
+<p align="center">
+  <a href="https://github.com/Maxxel346">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxxel346&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxxel346&layout=compact&theme=algolia"/>
   </a>
 </p>
 
-## 📫 Connect with Me 
+### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-jinaan-fakhruddin-01a025294/)
-- 💬 [Discord](https://discordapp.com/users/727134818017738783)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-jinaan-fakhruddin-01a025294/)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?style=for-the-badge&logo=discord)](https://discordapp.com/users/727134818017738783)
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 🌟
-
-![snake gif](https://github.com/Maxxel346/Maxxel346/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Maxxel346/Maxxel346/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
