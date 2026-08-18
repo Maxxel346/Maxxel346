@@ -1,6 +1,6 @@
 # Hi, I'm Maxxel 👋
 
-I am an Informatics graduate from UPN Veteran Yogyakarta University and a specialized Cloud Computing graduate from the Dicoding Bangkit Program. I build robust automation pipelines, deploy cloud-hosted infrastructure, and engineer smart IoT ecosystems.
+I am an Informatics graduate and a specialized Cloud Computing graduate from the Dicoding Bangkit Program. I build robust automation pipelines, deploy cloud-hosted infrastructure, and engineer smart IoT ecosystems.
 
 ### 🚀 Expertise & Focus
 
