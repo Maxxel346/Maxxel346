@@ -50,7 +50,6 @@ I am an Informatics graduate and a specialized Cloud Computing graduate from the
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-jinaan-fakhruddin-01a025294/)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289da?style=for-the-badge&logo=discord)](https://discordapp.com/users/727134818017738783)
 
 <p align="center">
